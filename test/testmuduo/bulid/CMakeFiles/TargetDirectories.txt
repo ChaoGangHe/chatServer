@@ -1,0 +1,3 @@
+/home/xiaowei/CHAT/testmuduo/bulid/CMakeFiles/server.dir
+/home/xiaowei/CHAT/testmuduo/bulid/CMakeFiles/edit_cache.dir
+/home/xiaowei/CHAT/testmuduo/bulid/CMakeFiles/rebuild_cache.dir
